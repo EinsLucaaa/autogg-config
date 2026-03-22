@@ -3,7 +3,7 @@
     {
       "hosts": ["gommehd.net", "play.gommehd.net", "gommehd.de"],
       "identifiers": ["-= Statistiken dieser Runde =-", "-= Statistics of this game =-", "hat die PartyGames gewonnen!", "---- Deine Match-Statistiken ----", "---- Your Match Statistics ----"],
-      "separators": [":" ]
+      "separators": ["[", "]" ]
     },
     {
       "hosts": ["skydinse.de", "play.skindinse.de", "skydinse.tk", "skydinse.net"],
